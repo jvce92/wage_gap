@@ -1,0 +1,712 @@
+"Employment Income Statistics in 2010 (7), Sex (3), Work Activity in 2010 (3), Highest Certificate, Diploma or Degree (6) and Occupation - National Occupational Classification (NOC) 2011 (693) for the Population Aged 15 Years and Over in Private Households of Canada, Provinces and Territories, 2011 National Household Survey"
+"Geography = Canada [1]"
+"Global non-response rate (GNR) [2] =  26.1 %"
+"Sex (3) =   Female"
+"Work activity in 2010 (3) = Total - Work activity in 2010"
+"Highest certificate, diploma or degree (6) = Total - Highest certificate, diploma or degree [3]"
+"Occupation - National Occupational Classification (NOC) 2011 (693)","Total - Employment income statistics in 2010 [4]","  With employment income","    Median employment income [5]","    Average employment income [6]","  With wages and salaries","    Median wages and salaries [7]","    Average wages and salaries [8]", 
+"Total - Occupation - National Occupational Classification (NOC) 2011",13964170,9051490,26570,33873,8465740,27915,34436 
+"  Occupation - Not applicable [9]",4751445,467410,2041,9694,373705,2326,10886 
+"  All occupations [10]",9212730,8584075,28199,35190,8092030,29261,35523 
+"    0 Management occupations",774370,729055,46490,57154,667940,49359,60156 
+"      00 Senior management occupations",62140,58205,69067,97406,55330,70903,99528 
+"        001 Legislators and senior management",62140,58210,69067,97406,55330,70903,99528 
+"          0011 Legislators",2845,2705,31866,45852,2675,32004,45831 
+"          0012 Senior government managers and officials",9980,9620,73279,81657,9565,73264,81665 
+"          0013 Senior managers - financial, communications and other business services",14305,13160,93655,133356,12185,99237,139228 
+"          0014 Senior managers - health, education, social and community services and membership organizations",15245,14650,69383,81451,14255,69983,82238 
+"          0015 Senior managers - trade, broadcasting and other services, n.e.c.",12115,11135,52084,87763,10220,54102,91699 
+"          0016 Senior managers - construction, transportation, production and utilities",7650,6940,75458,120290,6430,79899,123979 
+"      01-05 Specialized middle management occupations",338910,326895,64978,70200,314370,66062,71247 
+"        011 Administrative services managers",100730,97575,66194,73288,95855,66579,73722 
+"          0111 Financial managers",43410,41980,65830,74293,41090,66218,74670 
+"          0112 Human resources managers",35260,34155,71278,76424,33790,71729,76801 
+"          0113 Purchasing managers",5020,4900,67870,74439,4845,67952,74620 
+"          0114 Other administrative services managers",17035,16540,56897,63922,16130,57252,64581 
+"        012 Managers in financial and business services",106165,102085,58569,66001,94730,59932,67628 
+"          0121 Insurance, real estate and financial brokerage managers",23155,21630,54414,62087,16020,60341,68239 
+"          0122 Banking, credit and other investment managers",44655,43480,57920,67858,43100,58104,68090 
+"          0124 Advertising, marketing and public relations managers",31570,30530,61423,66720,29505,62331,67369 
+"          0125 Other business services managers",6780,6450,57422,63195,6100,58234,63998 
+"        013 Managers in communication (except broadcasting)",6125,5920,69802,70046,5800,69957,70365 
+"          0131 Telecommunication carriers managers",4520,4360,72159,73499,4320,72083,73412 
+"          0132 Postal and courier services managers",1605,1560,56239,60415,1480,57014,61470 
+"        021 Managers in engineering, architecture, science and information systems",18705,17965,85023,88196,17655,85225,88722 
+"          0211 Engineering managers",2365,2275,81820,87592,2240,82543,88090 
+"          0212 Architecture and science managers",3240,3090,74278,78275,3000,75618,79744 
+"          0213 Computer and information systems managers",13100,12600,87382,90738,12420,87446,91005 
+"        031 Managers in health care",21175,20400,77697,75602,19875,78379,75688 
+"          0311 Managers in health care",21175,20395,77697,75602,19875,78379,75688 
+"        041 Managers in public administration",12815,12500,85444,84826,12450,85603,84974 
+"          0411 Government managers - health and social policy development and program administration",3725,3660,88604,87048,3640,88919,87414 
+"          0412 Government managers - economic analysis, policy development and program administration",4040,3960,84342,83920,3950,84470,84023 
+"          0413 Government managers - education policy development and program administration",630,630,87614,85982,625,87614,86009 
+"          0414 Other managers in public administration",4415,4250,84587,83587,4240,84642,83609 
+"        042 Managers in education and social and community services",52075,50360,67556,68615,48890,68893,69686 
+"          0421 Administrators - post-secondary education and vocational training",10315,9960,63817,67650,9780,64250,67928 
+"          0422 School principals and administrators of elementary and secondary education",19505,18970,90483,85497,18685,90984,86273 
+"          0423 Managers in social, community and correctional services",22255,21435,51078,54124,20430,52018,55357 
+"        043 Managers in public protection services",4370,4260,65045,63716,4250,65033,63708 
+"          0431 Commissioned police officers",465,465,84008,75809,465,84008,76023 
+"          0432 Fire chiefs and senior firefighting officers",115,110,71802,65733,115,71802,65684 
+"          0433 Commissioned officers of the Canadian Forces",3790,3680,63441,62132,3670,63395,62092 
+"        051 Managers in art, culture, recreation and sport",16755,15830,40849,46155,14860,42348,47790 
+"          0511 Library, archive, museum and art gallery managers",3580,3410,53246,54091,3265,53708,55897 
+"          0512 Managers - publishing, motion pictures, broadcasting and performing arts",5760,5350,46132,51582,4860,49238,54449 
+"          0513 Recreation, sports and fitness program and service directors",7420,7065,33138,38217,6735,34652,39058 
+"      06 Middle management occupations in retail and wholesale trade and customer services",281050,261960,31232,37371,237550,32896,39438 
+"        060 Corporate sales managers",23170,22400,62198,71932,21535,64111,73893 
+"          0601 Corporate sales managers",23170,22400,62198,71932,21535,64111,73893 
+"        062 Retail and wholesale trade managers",165725,154495,31180,36045,140500,32586,37966 
+"          0621 Retail and wholesale trade managers",165725,154495,31180,36045,140500,32586,37966 
+"        063 Managers in food service and accommodation",74675,68990,27304,30990,63115,28666,32411 
+"          0631 Restaurant and food service managers",61610,57125,26770,30276,52495,27930,31479 
+"          0632 Accommodation service managers",13065,11865,30571,34428,10620,33627,37019 
+"        065 Managers in customer and personal services, n.e.c.",17475,16065,24742,29337,12405,27910,32052 
+"          0651 Managers in customer and personal services, n.e.c.",17480,16065,24742,29337,12410,27910,32052 
+"      07-09 Middle management occupations in trades, transportation, production and utilities",92265,81995,30006,39770,60690,39348,47904 
+"        071 Managers in construction and facility operation and maintenance",19740,18350,44892,50645,16935,46448,52343 
+"          0711 Construction managers",7690,7150,48726,56142,6505,49538,57970 
+"          0712 Home building and renovation managers",2315,2030,24221,36023,1505,31638,41419 
+"          0714 Facility operation and maintenance managers",9735,9170,46057,49595,8930,46333,50090 
+"        073 Managers in transportation",7385,7030,55356,58971,6700,56403,60621 
+"          0731 Managers in transportation",7385,7025,55356,58971,6700,56403,60621 
+"        081 Managers in natural resources production and fishing",1515,1395,77031,92867,1235,77267,95592 
+"          0811 Managers in natural resources production and fishing",1515,1395,77031,92867,1240,77267,95592 
+"        082 Managers in agriculture, horticulture and aquaculture",47020,39550,13330,19106,20950,17546,23211 
+"          0821 Managers in agriculture",44900,37645,12951,18595,19635,16830,22648 
+"          0822 Managers in horticulture",1975,1760,20357,28686,1195,23243,30703 
+"          0823 Managers in aquaculture",145,145,38656,35848,120,41133,41145 
+"        091 Managers in manufacturing and utilities",16610,15675,55590,65842,14865,57154,67936 
+"          0911 Manufacturing managers",14450,13690,51999,61376,12920,54247,63499 
+"          0912 Utilities managers",2160,1980,89744,96707,1950,89801,97349 
+"    1 Business, finance and administration occupations",2221165,2084935,35632,38151,2001960,36104,38521 
+"      11 Professional occupations in business and finance",322755,307960,50728,57018,288200,51654,57479 
+"        111 Auditors, accountants and investment professionals",191670,182945,50504,58599,170040,51364,58996 
+"          1111 Financial auditors and accountants",122180,116755,49574,57549,109375,50123,57539 
+"          1112 Financial and investment analysts",20010,19255,57565,61575,18990,57688,61873 
+"          1113 Securities agents, investment dealers and brokers",5980,5485,49548,74271,5035,50436,75812 
+"          1114 Other financial officers",43505,41450,50082,58102,36645,51386,59544 
+"        112 Human resources and business service professionals",131085,125020,51092,54704,118160,51974,55296 
+"          1121 Human resources professionals",47070,45665,56583,59162,44580,56934,59389 
+"          1122 Professional occupations in business management consulting",29230,27245,56243,60485,24305,58544,62178 
+"          1123 Professional occupations in advertising, marketing and public relations",54785,52110,43760,47774,49275,44522,48200 
+"      12 Administrative and financial supervisors and administrative occupations",864580,816865,37573,38954,791025,37987,39415 
+"        121 Administrative services supervisors",43410,40815,46851,47457,40280,47055,47685 
+"          1211 Supervisors, general office and administrative support workers",8870,8515,49253,50266,8365,49714,50723 
+"          1212 Supervisors, finance and insurance office workers",12900,12455,53679,55432,12340,53866,55420 
+"          1213 Supervisors, library, correspondence and related information workers",4295,3340,22410,28786,3190,24697,29723 
+"          1214 Supervisors, mail and message distribution occupations",6180,5810,44951,42919,5785,45019,42971 
+"          1215 Supervisors, supply chain, tracking and scheduling co-ordination occupations",11160,10685,42005,44233,10605,42158,44261 
+"        122 Administrative and regulatory occupations",382200,362045,41977,44219,349860,42426,44827 
+"          1221 Administrative officers",222280,211075,39494,41739,204305,39994,42268 
+"          1222 Executive assistants",39990,38525,49941,50852,37950,50115,51205 
+"          1223 Human resources and recruitment officers",22525,21320,45619,47094,20850,45778,47142 
+"          1224 Property administrators",27485,24270,37557,42603,21635,40019,45043 
+"          1225 Purchasing agents and officers",24725,23505,49677,53890,23230,49861,54023 
+"          1226 Conference and event planners",17960,16880,31241,33640,15580,31837,33915 
+"          1227 Court officers and justices of the peace",4470,4300,48400,49302,4225,48482,49668 
+"          1228 Employment insurance, immigration, border services and revenue officers",22765,22165,52569,52117,22095,52700,52240 
+"        124 Office administrative assistants - general, legal and medical",415310,391425,33529,33250,380475,33957,33558 
+"          1241 Administrative assistants",359830,338545,32778,32569,328590,33208,32882 
+"          1242 Legal administrative assistants",39400,37490,40518,39747,36700,40818,40070 
+"          1243 Medical administrative assistants",16075,15385,33021,32407,15180,33096,32454 
+"        125 Court reporters, transcriptionists, records management technicians and statistical officers",23655,22585,39499,38038,20410,40492,39501 
+"          1251 Court reporters, medical transcriptionists and related occupations",9595,9025,30691,30216,7000,33931,32294 
+"          1252 Health information management occupations",4515,4400,42999,43501,4360,42933,43390 
+"          1253 Records management technicians",6265,6035,42206,41850,5960,42271,41909 
+"          1254 Statistical officers and related research support occupations",3275,3120,46144,45584,3085,46133,45707 
+"      13 Finance, insurance and related business administrative occupations",167905,156550,33589,36320,138190,35851,38226 
+"        131 Finance, insurance and related business administrative occupations",167910,156545,33589,36320,138190,35851,38226 
+"          1311 Accounting technicians and bookkeepers",134030,123795,29564,32357,106070,31647,34227 
+"          1312 Insurance adjusters and claims examiners",16415,15905,50096,51790,15745,50128,51574 
+"          1313 Insurance underwriters",10570,10200,49373,51666,10055,49493,51968 
+"          1314 Assessors, valuators and appraisers",3805,3670,50871,54006,3395,52047,55187 
+"          1315 Customs, ship and other brokers",3090,2975,38430,44063,2925,38481,44453 
+"      14 Office support occupations",728935,675430,29580,30087,659750,29970,30304 
+"        141 General office workers",409790,381680,26512,27655,373060,26881,27829 
+"          1411 General office support workers",219550,204665,30823,30933,198545,31366,31243 
+"          1414 Receptionists",175140,162540,20947,22415,160155,21056,22483 
+"          1415 Personnel clerks",12655,12095,40373,40035,11980,40674,40157 
+"          1416 Court clerks",2445,2380,43242,40674,2380,43060,40669 
+"        142 Office equipment operators",42380,39675,28077,28178,38720,28476,28300 
+"          1422 Data entry clerks",41100,38440,27977,28005,37625,28322,28172 
+"          1423 Desktop publishing operators and related occupations",1285,1230,35883,33564,1090,36446,32715 
+"        143 Financial, insurance and related administrative support workers",207510,196925,36047,36619,192725,36329,36876 
+"          1431 Accounting and related clerks",136655,129115,34458,34766,125625,34844,35066 
+"          1432 Payroll clerks",33130,31905,43268,43478,31615,43400,43721 
+"          1434 Banking, insurance and other financial clerks",26120,25005,36828,38553,24650,36885,38563 
+"          1435 Collectors",11605,10900,34402,34061,10835,34494,34057 
+"        145 Library, correspondence and other clerks",69255,57150,20435,25144,55245,21032,25499 
+"          1451 Library assistants and clerks",17270,16465,19045,22080,16380,19068,22014 
+"          1452 Correspondence, publication and regulatory clerks",22630,21240,37723,37498,20590,38132,37831 
+"          1454 Survey interviewers and statistical clerks",29355,19450,8858,14251,18275,9088,14727 
+"      15 Distribution, tracking and scheduling co-ordination occupations",136985,128125,31160,32431,124795,31664,32846 
+"        151 Mail and message distribution occupations",46620,42880,27850,29570,40580,29389,30285 
+"          1511 Mail, postal and related workers",22170,20770,30094,30835,20350,30340,31032 
+"          1512 Letter carriers",14015,13285,39074,37916,12765,40110,38792 
+"          1513 Couriers, messengers and door-to-door distributors",10435,8825,8403,14028,7460,8008,13687 
+"        152 Supply chain logistics, tracking and scheduling co-ordination occupations",90360,85250,32341,33869,84215,32460,34080 
+"          1521 Shippers and receivers",29755,27900,26965,27820,27560,27154,28030 
+"          1522 Storekeepers and partspersons",11145,10465,29490,30327,10320,29923,30598 
+"          1523 Production logistics co-ordinators",9825,9495,41212,42634,9395,41365,42759 
+"          1524 Purchasing and inventory control workers",18320,17220,31690,32158,17025,32012,32320 
+"          1525 Dispatchers",18385,17350,39439,41226,17150,39731,41472 
+"          1526 Transportation route and crew schedulers",2935,2820,40923,42572,2770,41440,42863 
+"    2 Natural and applied sciences and related occupations",288455,274685,50924,53589,265325,51745,54273 
+"      21 Professional occupations in natural and applied sciences",160365,152695,60005,61532,146925,60487,62374 
+"        211 Physical science professionals",11345,10805,57435,63221,10490,57391,63462 
+"          2111 Physicists and astronomers",515,500,79368,81707,475,79037,79902 
+"          2112 Chemists",6805,6505,52803,55901,6430,52932,56226 
+"          2113 Geoscientists and oceanographers",3220,3050,67725,75928,2850,69334,77488 
+"          2114 Meteorologists and climatologists",430,420,62108,61459,410,62098,61165 
+"          2115 Other professional occupations in physical sciences",365,335,64677,64202,325,63887,62651 
+"        212 Life science professionals",15135,14585,50370,51089,14130,50674,51415 
+"          2121 Biologists and related scientists",11860,11410,51921,52736,11120,52259,53056 
+"          2122 Forestry professionals",945,915,51723,48713,860,52242,49129 
+"          2123 Agricultural representatives, consultants and specialists",2335,2265,43167,43745,2160,42407,43866 
+"        213 Civil, mechanical, electrical and chemical engineers",21130,20150,65074,68145,19750,65547,68349 
+"          2131 Civil engineers",8345,7970,61912,64851,7815,62142,65045 
+"          2132 Mechanical engineers",4570,4320,64685,67083,4225,64550,67066 
+"          2133 Electrical and electronics engineers",5170,4960,70838,70623,4830,71286,71154 
+"          2134 Chemical engineers",3050,2905,70055,74526,2875,70029,74495 
+"        214 Other engineers",10940,10230,64171,69943,10035,64454,70187 
+"          2141 Industrial and manufacturing engineers",2910,2720,53153,55210,2670,53157,55504 
+"          2142 Metallurgical and materials engineers",375,350,64938,70789,335,65675,71126 
+"          2143 Mining engineers",495,485,83446,93585,450,84547,93945 
+"          2144 Geological engineers",405,395,69853,69109,385,67953,68107 
+"          2145 Petroleum engineers",1525,1405,95283,107580,1405,95079,107103 
+"          2146 Aerospace engineers",775,715,63631,63918,710,63551,63487 
+"          2147 Computer engineers (except software engineers and designers)",3450,3215,68627,67485,3165,69191,67994 
+"          2148 Other professional engineers, n.e.c.",1005,945,54177,57174,910,54979,57938 
+"        215 Architects, urban planners and land surveyors",11115,10585,52477,54214,10000,52841,54907 
+"          2151 Architects",4815,4545,47862,51195,4145,49118,51495 
+"          2152 Landscape architects",755,705,42213,45147,655,43226,46209 
+"          2153 Urban and land use planners",4920,4760,60223,59993,4645,60749,60462 
+"          2154 Land surveyors",630,580,40831,41444,555,41305,44175 
+"        216 Mathematicians, statisticians and actuaries",5800,5595,61830,70806,5450,62320,71889 
+"          2161 Mathematicians, statisticians and actuaries",5800,5595,61830,70806,5450,62320,71889 
+"        217 Computer and information systems professionals",84895,80745,61291,60794,77055,62623,61983 
+"          2171 Information systems analysts and consultants",44545,42665,66276,66301,41335,66708,66806 
+"          2172 Database analysts and data administrators",5715,5505,53529,55498,5350,54012,56040 
+"          2173 Software engineers and designers",6875,6545,70850,70258,6410,71623,70979 
+"          2174 Computer programmers and interactive media developers",19230,18280,60019,57329,17540,60585,58255 
+"          2175 Web designers and developers",8535,7750,29964,34412,6420,35265,37088 
+"      22 Technical occupations related to natural and applied sciences",128090,121985,41388,43646,118405,42082,44221 
+"        221 Technical occupations in physical sciences",17645,16750,40008,43861,16600,40068,43994 
+"          2211 Chemical technologists and technicians",14200,13440,39279,41472,13350,39351,41624 
+"          2212 Geological and mineral technologists and technicians",3450,3305,46863,53571,3245,47686,53743 
+"        222 Technical occupations in life sciences",19430,18525,28957,33239,17480,30026,34078 
+"          2221 Biological technologists and technicians",6320,6005,33029,35016,5930,33159,34938 
+"          2222 Agricultural and fish products inspectors",2820,2740,41833,41229,2725,42303,41716 
+"          2223 Forestry technologists and technicians",1570,1515,39841,40067,1485,39868,40497 
+"          2224 Conservation and fishery officers",1485,1465,31847,37012,1460,31831,36879 
+"          2225 Landscape and horticulture technicians and specialists",7240,6790,18665,26105,5885,19744,27360 
+"        223 Technical occupations in civil, mechanical and industrial engineering",12575,11970,42659,44297,11805,42962,44456 
+"          2231 Civil engineering technologists and technicians",3760,3500,42426,43868,3445,43890,44141 
+"          2232 Mechanical engineering technologists and technicians",1835,1795,45898,45509,1770,45912,45690 
+"          2233 Industrial engineering and manufacturing technologists and technicians",4745,4565,41270,43281,4520,41794,43476 
+"          2234 Construction estimators",2230,2115,43755,46171,2070,43816,46070 
+"        224 Technical occupations in electronics and electrical engineering",9975,9305,38054,40884,8950,39057,41577 
+"          2241 Electrical and electronics engineering technologists and technicians",5255,4975,39923,43721,4825,40775,43900 
+"          2242 Electronic service technicians (household and business equipment)",3725,3380,30153,33390,3180,32811,34667 
+"          2243 Industrial instrument technicians and mechanics",365,360,55631,57450,360,55631,57960 
+"          2244 Aircraft instrument, electrical and avionics mechanics, technicians and inspectors",625,585,53934,49914,590,53934,49883 
+"        225 Technical occupations in architecture, drafting, surveying, geomatics and meteorology",19300,18400,37040,38473,17455,37887,39055 
+"          2251 Architectural technologists and technicians",3345,3195,35868,37300,3050,35908,37045 
+"          2252 Industrial designers",2385,2240,36315,37071,1965,37444,38888 
+"          2253 Drafting technologists and technicians",9720,9235,35965,37487,8805,36711,38038 
+"          2254 Land survey technologists and technicians",845,795,35897,34957,775,35401,35021 
+"          2255 Technical occupations in geomatics and meteorology",3005,2935,45959,44875,2860,46218,45545 
+"        226 Other technical inspectors and regulatory officers",14825,14280,52012,53400,14040,52644,53840 
+"          2261 Non-destructive testers and inspection technicians",580,555,47749,48468,540,47855,49002 
+"          2262 Engineering inspectors and regulatory officers",1190,1145,57510,58530,1145,57373,58015 
+"          2263 Inspectors in public and environmental health and occupational health and safety",11060,10645,53943,54537,10485,54427,54941 
+"          2264 Construction inspectors",1990,1925,46102,45499,1860,46285,46470 
+"        227 Transportation officers and controllers",3220,3140,58870,62766,3105,59409,63258 
+"          2271 Air pilots, flight engineers and flying instructors",1090,1075,53924,61320,1055,54118,62093 
+"          2272 Air traffic controllers and related occupations",1270,1250,66250,68733,1255,66385,68865 
+"          2273 Deck officers, water transport",415,375,52798,51585,365,52981,52231 
+"          2274 Engineer officers, water transport",90,95,51833,45248,95,51833,45248 
+"          2275 Railway traffic controllers and marine traffic regulators",350,345,66128,62415,340,66222,62938 
+"        228 Technical occupations in computer and information systems",31120,29615,46616,47122,28980,47149,47605 
+"          2281 Computer network technicians",13465,12810,48831,49546,12450,49933,50341 
+"          2282 User support technicians",14185,13495,43732,44428,13310,44063,44718 
+"          2283 Information systems testing technicians",3470,3315,51389,48724,3225,51412,48963 
+"    3 Health occupations",947120,902325,40541,47259,856970,40346,45174 
+"      30 Professional occupations in nursing",304685,292725,59240,57011,289845,59542,57242 
+"        301 Professional occupations in nursing",304685,292720,59240,57011,289845,59542,57242 
+"          3011 Nursing co-ordinators and supervisors",9980,9685,62706,60336,9615,62976,60571 
+"          3012 Registered nurses and registered psychiatric nurses",294705,283035,59113,56897,280230,59433,57128 
+"      31 Professional occupations in health (except nursing)",137935,132275,62246,77316,109885,56661,62640 
+"        311 Physicians, dentists and veterinarians",46690,44100,86529,115522,31830,60129,78265 
+"          3111 Specialist physicians",14165,13440,100012,140539,10305,62704,91196 
+"          3112 General practitioners and family physicians",20195,19095,101560,117188,13180,58461,74433 
+"          3113 Dentists",6840,6300,85151,99898,3740,59116,76815 
+"          3114 Veterinarians",5490,5265,62641,64348,4610,60920,61483 
+"        312 Optometrists, chiropractors and other health diagnosing and treating professionals",12455,11845,51677,59912,7095,47277,54078 
+"          3121 Optometrists",2460,2360,75858,78687,975,45363,53760 
+"          3122 Chiropractors",2500,2290,42132,52514,935,26738,36260 
+"          3124 Allied primary health practitioners",4670,4515,74022,69058,4095,70204,65407 
+"          3125 Other professional occupations in health diagnosing and treating",2820,2685,28742,34364,1090,19779,27143 
+"        313 Pharmacists, dietitians and nutritionists",31275,30265,67726,70534,29035,67025,67514 
+"          3131 Pharmacists",21250,20640,81862,82051,20135,80696,76795 
+"          3132 Dietitians and nutritionists",10025,9620,46018,45830,8900,46901,46520 
+"        314 Therapy and assessment professionals",47520,46065,50314,49666,41920,50090,48848 
+"          3141 Audiologists and speech-language pathologists",8840,8620,59099,56591,7995,58661,55604 
+"          3142 Physiotherapists",17475,16920,51896,51476,14855,51206,50277 
+"          3143 Occupational therapists",13645,13330,53438,51729,12515,53389,50753 
+"          3144 Other professional occupations in therapy and assessment",7560,7190,31910,33278,6555,32657,33739 
+"      32 Technical occupations in health",259645,247485,36041,37582,230190,37360,38537 
+"        321 Medical technologists and technicians (except dental health)",125905,120735,36709,39589,119780,36735,39492 
+"          3211 Medical laboratory technologists",17460,17010,57061,54962,16860,57138,55086 
+"          3212 Medical laboratory technicians and pathologists' assistants",21390,20390,39428,38832,20250,39455,38875 
+"          3213 Animal health technologists and veterinary technicians",13805,13155,25551,26097,12970,26093,26337 
+"          3214 Respiratory therapists, clinical perfusionists and cardiopulmonary technologists",7420,7230,54793,54178,7180,54834,54188 
+"          3215 Medical radiation technologists",15920,15425,56523,56290,15330,56457,55275 
+"          3216 Medical sonographers",3870,3800,61967,58098,3690,62276,58280 
+"          3217 Cardiology technologists and electrophysiological diagnostic technologists, n.e.c.",2525,2380,42958,43333,2355,42884,43294 
+"          3219 Other medical technologists and technicians (except dental health)",43505,41340,26341,27230,41140,26350,27205 
+"        322 Technical occupations in dental health care",28505,27360,42655,43601,26230,42728,43434 
+"          3221 Denturists",880,805,36008,40566,615,34307,35841 
+"          3222 Dental hygienists and dental therapists",23865,22980,45007,45081,22180,44995,45004 
+"          3223 Dental technologists, technicians and laboratory assistants",3760,3575,32950,34776,3440,33008,34677 
+"        323 Other technical occupations in health care",105235,99395,33319,33487,84175,36436,35652 
+"          3231 Opticians",6060,5810,36645,36543,5630,36718,36141 
+"          3232 Practitioners of natural healing",5660,5040,11272,15731,2350,12880,18092 
+"          3233 Licensed practical nurses",54650,51930,39354,37520,51460,39455,37633 
+"          3234 Paramedical occupations",9445,9045,49679,50834,9000,49594,50821 
+"          3236 Massage therapists",23175,21560,16226,19904,10100,12999,17291 
+"          3237 Other technical occupations in therapy and assessment",6240,6010,32034,33205,5635,32455,33095 
+"      34 Assisting occupations in support of health services",244855,229845,28120,27961,227055,28252,28043 
+"        341 Assisting occupations in support of health services",244855,229845,28120,27961,227055,28252,28043 
+"          3411 Dental assistants",32440,30725,30022,30025,30460,30039,30051 
+"          3413 Nurse aides, orderlies and patient service associates",187190,174995,27797,27576,172835,27980,27692 
+"          3414 Other assisting occupations in support of health services",25220,24125,27705,28124,23755,27748,28026 
+"    4 Occupations in education, law and social, community and government services",1514335,1417290,33548,40147,1328765,35095,40801 
+"      40 Professional occupations in education services",519055,497960,51566,50275,492020,51878,50478 
+"        401 University professors and post-secondary assistants",81075,74995,22679,41143,74115,22588,40872 
+"          4011 University professors and lecturers",35300,33305,68720,68777,32805,69052,68540 
+"          4012 Post-secondary teaching and research assistants",45775,41690,10713,19071,41315,10602,18906 
+"        402 College and other vocational instructors",61735,58370,46374,47183,55580,48019,48246 
+"          4021 College and other vocational instructors",61735,58370,46374,47183,55575,48019,48246 
+"        403 Secondary and elementary school teachers and educational counsellors",376245,364595,55456,52648,362325,55617,52785 
+"          4031 Secondary school teachers",110430,106955,58138,55080,106265,58310,55233 
+"          4032 Elementary school and kindergarten teachers",249085,241485,54773,51837,240075,54884,51977 
+"          4033 Educational counsellors",16735,16155,49739,48678,15980,49570,48650 
+"      41 Professional occupations in law and social, community and government services",288605,272705,50162,56531,252975,50565,54663 
+"        411 Judges, lawyers and Quebec notaries",37570,36165,81177,104516,30100,77868,91580 
+"          4111 Judges",1160,1080,225220,188784,1055,228303,189620 
+"          4112 Lawyers and Quebec notaries",36410,35085,79772,101927,29045,76034,88018 
+"        415 Social and community service professionals",114240,109565,46469,46652,102540,47182,46917 
+"          4151 Psychologists",17230,16540,49934,51794,12705,51441,51354 
+"          4152 Social workers",49645,47735,51381,49890,46615,52024,50279 
+"          4153 Family, marriage and other related counsellors",21680,20720,41706,41553,19250,42551,42535 
+"          4154 Professional occupations in religion",8310,7855,34576,36332,7580,34994,36786 
+"          4155 Probation and parole officers and related occupations",4375,4275,64079,59328,4270,64213,59233 
+"          4156 Employment counsellors",13000,12440,38324,38040,12120,38557,38293 
+"        416 Policy and program researchers, consultants and officers",136795,126980,49701,51389,120340,50510,52030 
+"          4161 Natural and applied science policy researchers, consultants and program officers",11530,11010,56065,60654,10440,57428,58305 
+"          4162 Economists and economic policy researchers and analysts",6970,6765,63904,66075,6595,64193,66680 
+"          4163 Business development officers and marketing researchers and consultants",28020,26125,45138,50512,24210,46685,51723 
+"          4164 Social policy researchers, consultants and program officers",20260,19540,54628,53930,18865,55086,54606 
+"          4165 Health policy researchers, consultants and program officers",23750,22535,52207,52614,21380,53245,53136 
+"          4166 Education policy researchers, consultants and program officers",19540,18875,52698,52931,17770,53907,54278 
+"          4167 Recreation, sports and fitness policy researchers, consultants and program officers",8520,8200,34928,36444,8070,35168,36643 
+"          4168 Program officers unique to government",13730,9760,33746,37309,9235,39031,38909 
+"          4169 Other professional occupations in social science, n.e.c.",4485,4175,43205,45449,3775,45813,46316 
+"      42 Paraprofessional occupations in legal, social, community and education services",384890,355450,23287,26112,310375,26044,27735 
+"        421 Paraprofessional occupations in legal, social, community and education services",384890,355450,23287,26112,310375,26044,27735 
+"          4211 Paralegal and related occupations",24350,23260,43144,44523,22255,43907,44926 
+"          4212 Social and community service workers",110950,104530,33399,33133,102505,33818,33389 
+"          4214 Early childhood educators and assistants",206330,187940,17813,20221,149375,20090,21760 
+"          4215 Instructors of persons with disabilities",18975,18315,33878,33979,18000,34213,34246 
+"          4216 Other instructors",18920,16480,8599,15165,13655,8147,15571 
+"          4217 Other religious occupations",5370,4930,19469,22305,4590,20619,23257 
+"      43 Occupations in front-line public protection services",26545,25615,65296,64227,25505,65328,64470 
+"        431 Occupations in front-line public protection services",26545,25615,65296,64227,25510,65328,64470 
+"          4311 Police officers (except commissioned)",18650,18035,74188,70345,17965,74847,70606 
+"          4312 Firefighters",1295,1200,67905,64302,1200,67366,64099 
+"          4313 Non-commissioned ranks of the Canadian Forces",6600,6385,51363,46925,6345,51769,47168 
+"      44 Care providers and educational, legal and public protection support occupations",295235,265550,18384,20793,247885,19333,21370 
+"        441 Home care providers and educational support occupations",283720,254430,17770,19457,236830,18668,19964 
+"          4411 Home child care providers",78005,64615,11265,13403,52360,12453,14019 
+"          4412 Home support workers, housekeepers and related occupations",96700,86935,18451,20659,82570,19146,21046 
+"          4413 Elementary and secondary school teacher assistants",109015,102875,21822,22243,101895,21769,22142 
+"        442 Legal and public protection support occupations",11515,11125,54752,51354,11055,54873,51490 
+"          4421 Sheriffs and bailiffs",765,760,50141,47256,720,50744,47163 
+"          4422 Correctional service officers",7765,7450,60025,55244,7435,60062,55355 
+"          4423 By-law enforcement and other regulatory officers, n.e.c.",2985,2920,42106,42491,2900,42144,42662 
+"    5 Occupations in art, culture, recreation and sport",318175,291405,15389,23984,241865,16052,24895 
+"      51 Professional occupations in art and culture",116990,106545,20907,29962,80720,25785,33152 
+"        511 Librarians, archivists, conservators and curators",15200,14630,43237,45255,14340,43582,45592 
+"          5111 Librarians",12220,11820,44607,46557,11700,44677,46606 
+"          5112 Conservators and curators",1220,1150,39668,39417,1030,43666,42224 
+"          5113 Archivists",1765,1660,39384,40014,1610,40284,40369 
+"        512 Writing, translating and related communications professionals",48860,44645,32361,36654,35125,36074,39175 
+"          5121 Authors and writers",15595,13685,27614,33348,10130,33782,36744 
+"          5122 Editors",12450,11705,34071,37233,9645,38089,39772 
+"          5123 Journalists",6985,6525,35908,41230,5875,40052,43275 
+"          5125 Translators, terminologists and interpreters",13835,12730,32977,37329,9470,35525,38626 
+"        513 Creative and performing artists",52935,47270,10607,18910,31260,10157,20679 
+"          5131 Producers, directors, choreographers and related occupations",7945,7450,40030,44426,6300,43961,47746 
+"          5132 Conductors, composers and arrangers",1335,1245,14630,20990,930,15837,22050 
+"          5133 Musicians and singers",19290,17375,9695,14161,9845,7110,12700 
+"          5134 Dancers",8115,7370,8393,13543,5960,6713,12362 
+"          5135 Actors and comedians",5890,5245,7558,15515,3815,5525,12930 
+"          5136 Painters, sculptors and other visual artists",10365,8590,6694,12763,4410,9846,17496 
+"      52 Technical occupations in art, culture, recreation and sport",201185,184855,13033,20538,161150,12890,20759 
+"        521 Technical occupations in libraries, public archives, museums and art galleries",15240,14675,28319,28939,14430,28335,29015 
+"          5211 Library and public archive technicians",10350,10050,34820,34545,9980,34811,34542 
+"          5212 Technical occupations related to museums and art galleries",4885,4625,9428,16755,4450,9373,16632 
+"        522 Photographers, graphic arts technicians and technical and co-ordinating occupations in motion pictures, broadcasting and the performing arts",23700,21545,21950,26327,18275,24150,27725 
+"          5221 Photographers",8480,7235,9958,15058,4935,10192,16264 
+"          5222 Film and video camera operators",625,595,32054,38358,540,28331,27300 
+"          5223 Graphic arts technicians",4095,3870,28487,29512,3510,29963,30389 
+"          5224 Broadcast technicians",820,740,37081,41348,725,37025,41523 
+"          5225 Audio and video recording technicians",2205,2050,27137,31032,1895,27087,31878 
+"          5226 Other technical and co-ordinating occupations in motion pictures, broadcasting and the performing arts",4660,4410,30631,33918,4155,31435,34098 
+"          5227 Support occupations in motion pictures, broadcasting, photography and the performing arts",2810,2645,25049,29279,2515,24969,28968 
+"        523 Announcers and other performers, n.e.c.",5545,4880,15180,23539,4085,15237,24403 
+"          5231 Announcers and other broadcasters",2440,2255,31057,34749,2100,31287,34993 
+"          5232 Other performers, n.e.c.",3105,2625,7515,13914,1985,7003,13189 
+"        524 Creative designers and craftspersons",68785,62565,24266,28280,49195,27328,30590 
+"          5241 Graphic designers and illustrators",27990,25995,30068,32012,21500,32624,33519 
+"          5242 Interior designers and interior decorators",20380,18465,24386,29253,14110,26998,31467 
+"          5243 Theatre, fashion, exhibit and other creative designers",10215,9315,22991,27770,7585,25002,29856 
+"          5244 Artisans and craftspersons",9385,8025,9500,14081,5320,12198,16821 
+"          5245 Patternmakers - textile, leather and fur products",810,765,32682,33167,685,36437,35632 
+"        525 Athletes, coaches, referees and related occupations",87915,81195,6468,11337,75165,5989,10847 
+"          5251 Athletes",565,490,8095,24570,365,8022,23477 
+"          5252 Coaches",5155,4645,14349,22304,3460,15018,22973 
+"          5253 Sports officials and referees",2530,2075,750,2778,1980,733,2752 
+"          5254 Program leaders and instructors in recreation, sport and fitness",79670,73985,6313,10800,69350,5957,10406 
+"    6 Sales and service occupations",2619380,2402430,14574,19688,2275350,14763,19747 
+"      62 Retail sales supervisors and specialized sales occupations",191775,182355,35902,41322,164570,36386,41089 
+"        621 Retail sales supervisors",42390,40350,23281,26648,39975,23311,26731 
+"          6211 Retail sales supervisors",42390,40350,23281,26648,39975,23311,26731 
+"        622 Technical sales specialists in wholesale trade and retail and wholesale buyers",40095,38025,37492,46073,37060,38023,46603 
+"          6221 Technical sales specialists - wholesale trade",19215,18230,50793,60443,17725,51721,61275 
+"          6222 Retail and wholesale buyers",20880,19795,26935,32837,19330,27187,33152 
+"        623 Insurance, real estate and financial sales occupations",109285,103985,40310,45278,87540,41272,45310 
+"          6231 Insurance agents and brokers",41645,40080,41267,45390,37685,41816,45898 
+"          6232 Real estate agents and salespersons",29805,27560,33874,45632,14450,35996,43890 
+"          6235 Financial sales representatives",37845,36340,41500,44886,35405,41830,45265 
+"      63 Service supervisors and specialized service occupations",306480,280360,17416,20456,244230,18506,21387 
+"        631 Service supervisors",54145,51545,25024,29257,50800,25216,29377 
+"          6311 Food service supervisors",26220,24875,19146,21376,24675,19213,21427 
+"          6312 Executive housekeepers",3295,3070,28825,29736,3020,29300,30172 
+"          6313 Accommodation, travel, tourism and related services supervisors",3345,3175,39863,40353,3170,40001,40328 
+"          6314 Customer and information services supervisors",10230,9885,42059,44074,9780,42138,44268 
+"          6315 Cleaning supervisors",4070,3850,28392,30637,3535,29765,31472 
+"          6316 Other services supervisors",6990,6680,26669,30380,6615,26535,30270 
+"        632 Chefs and cooks",116960,105685,16311,18662,102010,16486,18747 
+"          6321 Chefs",14280,13130,22182,24455,12510,22592,24783 
+"          6322 Cooks",102675,92555,15597,17840,89500,15800,17903 
+"        633 Butchers and bakers",31675,29065,17738,19505,27925,17960,19702 
+"          6331 Butchers, meat cutters and fishmongers - retail and wholesale",3225,2985,19470,21230,2920,19630,21370 
+"          6332 Bakers",28445,26075,17633,19308,25000,17830,19507 
+"        634 Specialized occupations in personal and customer services",103700,94070,15103,17944,63490,17830,19977 
+"          6341 Hairstylists and barbers",84135,76795,14825,17245,49975,16996,18948 
+"          6342 Tailors, dressmakers, furriers and milliners",13850,12105,16321,18279,9235,19258,20641 
+"          6343 Shoe repairers and shoemakers",415,365,17694,19198,300,18947,19458 
+"          6344 Jewellers, jewellery and watch repairers and related occupations",2235,1940,17638,21600,1435,22116,25279 
+"          6345 Upholsterers",1360,1250,16749,19314,960,22094,22032 
+"          6346 Funeral directors and embalmers",1705,1615,40550,42996,1575,40484,42727 
+"      64 Sales representatives and salespersons - wholesale and retail trade",513750,474270,13084,18929,460905,13062,18934 
+"        641 Sales and account representatives - wholesale trade (non-technical)",50415,47175,39526,43970,44130,40202,45187 
+"          6411 Sales and account representatives - wholesale trade (non-technical)",50415,47175,39526,43970,44125,40202,45187 
+"        642 Retail salespersons",463335,427095,12010,16163,416780,12001,16154 
+"          6421 Retail salespersons",463330,427095,12010,16163,416785,12001,16154 
+"      65 Service representatives and other customer and personal services occupations",619930,576955,16905,21123,555340,17158,21381 
+"        651 Occupations in food and beverage service",229465,211635,10417,12343,209685,10360,12270 
+"          6511 Maîtres d'hôtel and hosts/hostesses",25705,23110,5693,8228,22955,5641,8170 
+"          6512 Bartenders",25920,24045,13007,14318,23855,12976,14257 
+"          6513 Food and beverage servers",177835,164480,10807,12632,162880,10728,12557 
+"        652 Occupations in travel and accommodation",62750,59005,26469,28468,56925,27064,28941 
+"          6521 Travel counsellors",22415,20895,27682,28427,19055,29088,29859 
+"          6522 Pursers and flight attendants",11075,10610,40169,38359,10570,40149,38320 
+"          6523 Airline ticket and service agents",9000,8620,31990,33421,8580,31946,33390 
+"          6524 Ground and water transport ticket agents, cargo service representatives and related clerks",2025,1900,29611,31091,1870,29493,31189 
+"          6525 Hotel front desk clerks",18230,16980,17716,19532,16855,17692,19510 
+"        653 Tourism and amusement services occupations",11475,10585,20250,23254,10360,20462,23430 
+"          6531 Tour and travel guides",4365,3885,7875,12465,3710,7688,12385 
+"          6532 Outdoor sport and recreational guides",680,650,9790,13846,630,9961,14121 
+"          6533 Casino occupations",6425,6050,30542,31193,6015,30610,31218 
+"        654 Security guards and related security service occupations",29815,27750,21691,25353,27465,21937,25479 
+"          6541 Security guards and related security service occupations",29810,27750,21691,25353,27465,21937,25479 
+"        655 Customer and information services representatives",221925,209735,27138,28530,208030,27190,28564 
+"          6551 Customer services representatives - financial institutions",81335,77705,26173,27004,77265,26160,27001 
+"          6552 Other customer and information services representatives",140595,132030,27803,29428,130760,27898,29487 
+"        656 Other occupations in personal service",64505,58240,13484,16515,42875,15090,17928 
+"          6561 Image, social and other personal consultants",3130,2765,17295,24532,2255,20471,27038 
+"          6562 Estheticians, electrologists and related occupations",44445,40200,14453,16916,29945,16082,18385 
+"          6563 Pet groomers and animal care workers",16100,14580,10728,13917,10335,10957,14422 
+"          6564 Other personal service occupations",840,695,8627,15852,340,10190,23753 
+"      66 Sales support occupations",429735,388975,9855,12885,381825,9858,12887 
+"        661 Cashiers",331285,300880,9127,11773,298870,9060,11719 
+"          6611 Cashiers",331280,300880,9127,11773,298870,9060,11719 
+"        662 Other sales support and related occupations",98450,88095,13446,16684,82955,13955,17096 
+"          6621 Service station attendants",7640,6885,11091,13750,6775,11031,13691 
+"          6622 Store shelf stockers, clerks and order fillers",61735,56635,15909,17759,56040,15934,17761 
+"          6623 Other sales related occupations",29075,24580,8947,15029,20140,9977,16392 
+"      67 Service support and other service occupations, n.e.c.",557705,499510,12171,15718,468475,12316,15847 
+"        671 Food counter attendants, kitchen helpers and related support occupations",258645,233170,9635,12757,231055,9563,12724 
+"          6711 Food counter attendants, kitchen helpers and related support occupations",258645,233165,9635,12757,231050,9563,12724 
+"        672 Support occupations in accommodation, travel and amusement services",15395,14085,8395,13381,13840,8186,13337 
+"          6721 Support occupations in accommodation, travel and facilities set-up services",1205,1125,17864,23111,1095,18652,23334 
+"          6722 Operators and attendants in amusement, recreation and sport",14190,12960,7971,12536,12745,7837,12478 
+"        673 Cleaners",251875,223365,15857,18629,195475,17013,19346 
+"          6731 Light duty cleaners",185255,163570,14469,17141,140320,15759,17864 
+"          6732 Specialized cleaners",7190,6380,15027,18280,5745,15247,18494 
+"          6733 Janitors, caretakers and building superintendents",59425,53410,21138,23226,49410,21843,23654 
+"        674 Other service support and related occupations, n.e.c.",31795,28890,15784,18247,28105,16047,18414 
+"          6741 Dry cleaning, laundry and related occupations",18045,16625,21792,22053,16175,21980,22317 
+"          6742 Other service support occupations, n.e.c.",13755,12270,8371,13089,11930,8344,13122 
+"    7 Trades, transport and equipment operators and related occupations",169540,154600,23095,28908,144495,23982,29562 
+"      72 Industrial, electrical and construction trades",39740,35840,27345,33129,31760,29658,34790 
+"        720 Contractors and supervisors, industrial, electrical and construction trades and related workers",5365,4915,41259,49624,4350,44498,53355 
+"          7201 Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations",635,585,61161,63661,585,61161,63523 
+"          7202 Contractors and supervisors, electrical trades and telecommunications occupations",1580,1475,52180,68799,1385,55366,72090 
+"          7203 Contractors and supervisors, pipefitting trades",415,335,47811,62776,330,47802,63175 
+"          7204 Contractors and supervisors, carpentry trades",395,385,36803,40461,310,44679,44715 
+"          7205 Contractors and supervisors, other construction trades, installers, repairers and servicers",2340,2130,25991,32072,1730,30809,34611 
+"        723 Machining, metal forming, shaping and erecting trades",7765,7180,30682,33534,6980,30809,34107 
+"          7231 Machinists and machining and tooling inspectors",1855,1720,28463,30675,1665,28907,30955 
+"          7232 Tool and die makers",415,405,31571,34980,390,31740,36282 
+"          7233 Sheet metal workers",445,430,34347,36056,420,34332,36053 
+"          7234 Boilermakers",100,95,62086,62059,100,62086,62059 
+"          7235 Structural metal and platework fabricators and fitters",250,225,35283,35904,220,35283,37707 
+"          7236 Ironworkers",395,370,35677,49475,365,35816,50076 
+"          7237 Welders and related machine operators",4300,3925,30615,32017,3810,30659,32597 
+"        724 Electrical trades and electrical power line and telecommunications workers",7000,6535,42082,43233,6365,42575,43802 
+"          7241 Electricians (except industrial and power system)",2040,1865,32381,37733,1795,34454,38333 
+"          7242 Industrial electricians",555,540,47661,49424,540,47661,49487 
+"          7243 Power system electricians",265,265,73642,77476,260,73625,77433 
+"          7244 Electrical power line and cable workers",250,240,34357,43655,230,37789,45059 
+"          7245 Telecommunications line and cable workers",725,660,44353,42575,645,44455,42857 
+"          7246 Telecommunications installation and repair workers",3070,2870,43469,42741,2800,45331,43218 
+"          7247 Cable television service and maintenance technicians",95,95,42739,40166,95,43181,42814 
+"        725 Plumbers, pipefitters and gas fitters",1605,1450,35875,40623,1400,36962,41850 
+"          7251 Plumbers",1020,905,33388,34329,855,35270,35743 
+"          7252 Steamfitters, pipefitters and sprinkler system installers",455,420,43783,53629,420,43826,54188 
+"          7253 Gas fitters",130,120,42172,42421,125,42172,42425 
+"        727 Carpenters and cabinetmakers",5310,4745,23255,25301,4070,24607,25742 
+"          7271 Carpenters",3780,3365,24533,26399,2975,24022,25534 
+"          7272 Cabinetmakers",1530,1385,20856,22625,1100,24949,26306 
+"        728 Masonry and plastering trades",2465,2065,22497,27139,1675,24004,26572 
+"          7281 Bricklayers",330,280,21689,27698,230,24670,29683 
+"          7282 Concrete finishers",320,270,30881,29659,255,30910,29244 
+"          7283 Tilesetters",435,360,26347,24928,275,31315,27872 
+"          7284 Plasterers, drywall installers and finishers and lathers",1380,1155,19473,27104,910,18581,24644 
+"        729 Other construction trades",10235,8950,15531,20690,6925,16053,21421 
+"          7291 Roofers and shinglers",640,520,22423,31443,475,24372,33157 
+"          7292 Glaziers",660,620,28876,35414,545,31215,38363 
+"          7293 Insulators",705,675,22233,30364,650,25268,30137 
+"          7294 Painters and decorators (except interior decorators)",7450,6435,13152,17255,4745,12528,16822 
+"          7295 Floor covering installers",780,700,19670,21906,510,21459,24123 
+"      73 Maintenance and equipment operation trades",17445,16210,36978,42023,15550,37766,43089 
+"        730 Contractors and supervisors, maintenance trades and heavy equipment and transport operators",5590,5240,43625,51906,5065,44512,53021 
+"          7301 Contractors and supervisors, mechanic trades",1245,1125,37251,39299,1060,38621,40940 
+"          7302 Contractors and supervisors, heavy equipment operator crews",1250,1150,50302,79092,1110,52005,80789 
+"          7303 Supervisors, printing and related occupations",1580,1500,41833,41627,1480,41784,41679 
+"          7304 Supervisors, railway transport operations",185,180,60212,60025,180,60212,60027 
+"          7305 Supervisors, motor transport and other ground transit operators",1335,1285,45798,49508,1235,46028,50966 
+"        731 Machinery and transportation equipment mechanics (except motor vehicle)",3730,3550,42685,45046,3405,43596,46153 
+"          7311 Construction millwrights and industrial mechanics",1320,1265,43533,45703,1225,43138,46158 
+"          7312 Heavy-duty equipment mechanics",550,535,30041,38044,465,34516,41925 
+"          7313 Refrigeration and air conditioning mechanics",445,410,39936,39786,390,41350,41336 
+"          7314 Railway carmen/women",35,35,61328,61344,35,61328,61344 
+"          7315 Aircraft mechanics and aircraft inspectors",1135,1060,45990,49071,1050,45995,49203 
+"          7316 Machine fitters",170,155,43811,45259,150,43865,46012 
+"          7318 Elevator constructors and mechanics",85,90,40948,47451,90,40948,47451 
+"        732 Automotive service technicians",3595,3180,29825,31931,3050,30293,32817 
+"          7321 Automotive service technicians, truck and bus mechanics and mechanical repairers",2665,2325,30697,33260,2265,31572,34010 
+"          7322 Motor vehicle body repairers",925,850,25619,28292,790,27743,29406 
+"        733 Other mechanics and related repairers",930,825,29066,31631,745,30203,34049 
+"          7331 Oil and solid fuel heating mechanics",55,50,23028,29715,45,29613,32720 
+"          7332 Appliance servicers and repairers",345,310,18688,23288,275,19208,25015 
+"          7333 Electrical mechanics",415,370,38219,41981,355,38457,43398 
+"          7334 Motorcycle, all-terrain vehicle and other related mechanics",25,15,23172,19993,0,0,0 
+"          7335 Other small engine and small equipment repairers",85,75,11386,18678,60,29252,23017 
+"        736 Train crew operating occupations",460,435,55258,54301,430,55282,54439 
+"          7361 Railway and yard locomotive engineers",230,220,58144,52974,225,58148,53240 
+"          7362 Railway conductors and brakemen/women",225,215,53077,55683,215,53077,55683 
+"        737 Crane operators, drillers and blasters",370,365,58670,55661,355,58712,56607 
+"          7371 Crane operators",290,280,58795,57903,280,58795,57903 
+"          7372 Drillers and blasters - surface mining, quarrying and construction",35,35,31784,50076,30,31784,50076 
+"          7373 Water well drillers",50,50,48032,46367,40,55139,52871 
+"        738 Printing press operators and other trades and related occupations, n.e.c.",2770,2620,28186,29752,2490,28628,30088 
+"          7381 Printing press operators",2085,1970,28831,30255,1935,29572,30169 
+"          7384 Other trades and related occupations, n.e.c.",685,655,26292,28237,560,27905,29806 
+"      74 Other installers, repairers and servicers and material handlers",29295,26690,22090,25560,25835,22403,25859 
+"        744 Other installers, repairers and servicers",4235,3850,19560,24799,3420,20082,25277 
+"          7441 Residential and commercial installers and servicers",2265,2050,18919,22379,1775,18575,22102 
+"          7442 Waterworks and gas maintenance workers",440,425,36750,43195,420,35818,43409 
+"          7444 Pest controllers and fumigators",475,440,16029,22158,405,20118,22858 
+"          7445 Other repairers and servicers",1055,940,16271,23052,825,16298,24062 
+"        745 Longshore workers and material handlers",25055,22840,22458,25688,22410,22768,25948 
+"          7451 Longshore workers",415,395,42066,42575,395,42071,42735 
+"          7452 Material handlers",24645,22445,22354,25391,22025,22608,25650 
+"      75 Transport and heavy equipment operation and related maintenance occupations",62950,57960,20421,26510,54355,20742,26844 
+"        751 Motor vehicle and transit drivers",55660,51180,19489,25162,47755,19753,25444 
+"          7511 Transport truck drivers",10245,9240,31985,34200,8340,33413,34853 
+"          7512 Bus drivers, subway operators and other transit operators",31420,29670,18535,24752,29160,18387,24652 
+"          7513 Taxi and limousine drivers and chauffeurs",4640,3970,13679,16401,3105,14022,17342 
+"          7514 Delivery and courier service drivers",9360,8305,17169,20761,7155,18227,21215 
+"        752 Heavy equipment operators",4415,4120,31707,41381,3985,31765,41704 
+"          7521 Heavy equipment operators (except crane)",3430,3175,35797,45246,3095,35727,45224 
+"          7522 Public works maintenance equipment operators and related workers",985,945,26770,28402,890,26840,29500 
+"        753 Other transport equipment operators and related maintenance workers",2880,2660,25670,29437,2610,26127,29751 
+"          7531 Railway yard and track maintenance workers",200,190,52032,50421,185,53023,50818 
+"          7532 Water transport deck and engine room crew",380,310,30049,31864,300,32416,33033 
+"          7533 Boat and cable ferry operators and related occupations",470,435,21099,28168,430,22435,28350 
+"          7534 Air transport ramp attendants",1120,1050,25651,28373,1035,25668,28417 
+"          7535 Other automotive mechanical installers and servicers",705,675,21596,24954,665,21778,25458 
+"      76 Trades helpers, construction labourers and related occupations",20115,17905,15039,21340,17005,15346,21737 
+"        761 Trades helpers and labourers",14820,13110,15002,20948,12320,15299,21471 
+"          7611 Construction trades helpers and labourers",13235,11725,14667,20712,10980,15002,21240 
+"          7612 Other trades helpers and labourers",1585,1385,18895,22945,1340,19265,23371 
+"        762 Public works and other labourers, n.e.c.",5290,4795,16242,22410,4685,15595,22438 
+"          7621 Public works and maintenance labourers",4905,4440,15644,22338,4325,15302,22360 
+"          7622 Railway and motor transport labourers",385,355,25288,23300,360,25340,23391 
+"    8 Natural resources, agriculture and related production occupations",94885,83880,10496,15714,72585,10429,16120 
+"      82 Supervisors and technical occupations in natural resources, agriculture and related production",13050,11885,16448,26696,8915,19648,31655 
+"        821 Supervisors, logging and forestry",315,310,19546,31623,300,21256,32556 
+"          8211 Supervisors, logging and forestry",315,310,19546,31623,295,21256,32556 
+"        822 Contractors and supervisors, mining, oil and gas",1090,1015,69039,75496,975,74373,78026 
+"          8221 Supervisors, mining and quarrying",415,370,82876,75831,370,82926,77542 
+"          8222 Contractors and supervisors, oil and gas drilling and services",680,640,58691,75300,605,59276,78323 
+"        823 Underground miners, oil and gas drillers and related occupations",1000,900,51882,57523,875,51913,58599 
+"          8231 Underground production and development miners",515,440,50757,50125,440,50757,50267 
+"          8232 Oil and gas well drillers, servicers, testers and related workers",490,455,55472,64696,435,58229,67068 
+"        824 Logging machinery operators",240,225,15371,21637,185,22014,23467 
+"          8241 Logging machinery operators",240,225,15371,21637,185,22014,23467 
+"        825 Contractors and supervisors, agriculture, horticulture and related operations and services",6520,5990,17738,21630,4670,20029,24998 
+"          8252 Agricultural service contractors, farm supervisors and specialized livestock workers",3535,3145,12178,15661,2205,15827,20909 
+"          8255 Contractors and supervisors, landscaping, grounds maintenance and horticulture services",2990,2845,23882,28224,2465,23851,28647 
+"        826 Fishing vessel masters and fishermen/women",3875,3445,11160,13023,1915,10802,12527 
+"          8261 Fishing masters and officers",115,70,10266,14427,30,11621,15517 
+"          8262 Fishermen/women",3765,3375,11164,12993,1885,10791,12478 
+"      84 Workers in natural resources, agriculture and related production",50530,43995,10039,13981,37655,10016,14087 
+"        841 Mine service workers and operators in oil and gas drilling",340,330,51316,55273,325,51352,55486 
+"          8411 Underground mine service and support workers",135,135,50477,41290,130,50477,41290 
+"          8412 Oil and gas well drilling and related workers and services operators",200,195,60101,64679,190,60114,65242 
+"        842 Logging and forestry workers",1800,1640,13243,18399,1535,13791,19055 
+"          8421 Chain saw and skidder operators",390,355,23623,29396,325,28537,31657 
+"          8422 Silviculture and forestry workers",1410,1285,11788,15345,1215,12013,15723 
+"        843 Agriculture and horticulture workers",47765,41510,10005,13501,35430,9915,13524 
+"          8431 General farm workers",36230,31200,9811,13634,25460,9783,13813 
+"          8432 Nursery and greenhouse workers",11535,10315,10356,13100,9965,10096,12785 
+"        844 Other workers in fishing and trapping and hunting occupations",630,510,10520,12290,370,9802,11153 
+"          8441 Fishing vessel deckhands",520,480,10731,12060,340,9812,10673 
+"          8442 Trappers and hunters",110,35,6824,15573,30,6840,16172 
+"      86 Harvesting, landscaping and natural resources labourers",31305,28000,9834,13776,26010,9443,13736 
+"        861 Harvesting, landscaping and natural resources labourers",31305,28000,9834,13776,26010,9443,13736 
+"          8611 Harvesting labourers",6970,6190,9709,12326,5940,9835,12343 
+"          8612 Landscaping and grounds maintenance labourers",21535,19220,9214,13298,17610,8865,13191 
+"          8613 Aquaculture and marine harvest labourers",430,375,11296,13831,280,8965,12528 
+"          8614 Mine labourers",410,375,14214,27232,375,14214,27148 
+"          8615 Oil and gas drilling, servicing and related labourers",815,770,26875,29847,760,29976,29976 
+"          8616 Logging and forestry labourers",1145,1080,11772,14461,1050,11942,14539 
+"    9 Occupations in manufacturing and utilities",265305,243480,24079,26807,236775,24519,27187 
+"      92 Processing, manufacturing and utilities supervisors and central control operators",18505,17555,43644,49617,17400,43768,49841 
+"        921 Supervisors, processing and manufacturing occupations",9260,8760,40867,45603,8690,40996,45775 
+"          9211 Supervisors, mineral and metal processing",410,410,44470,53130,405,44453,53237 
+"          9212 Supervisors, petroleum, gas and chemical processing and utilities",2180,2080,60861,63569,2075,60866,63671 
+"          9213 Supervisors, food, beverage and associated products processing",4030,3775,36874,39187,3750,37345,39399 
+"          9214 Supervisors, plastic and rubber products manufacturing",1150,1090,40785,41680,1090,40746,41719 
+"          9215 Supervisors, forest products processing",530,515,41348,46097,510,41359,46497 
+"          9217 Supervisors, textile, fabric, fur and leather products processing and manufacturing",955,890,27958,31947,855,27908,31598 
+"        922 Supervisors, assembly and fabrication",3040,2840,42755,47261,2805,42965,47643 
+"          9221 Supervisors, motor vehicle assembling",815,715,66195,64605,715,66207,64988 
+"          9222 Supervisors, electronics manufacturing",600,595,45609,46713,590,45596,46839 
+"          9223 Supervisors, electrical products manufacturing",180,175,37465,37344,175,37465,37368 
+"          9224 Supervisors, furniture and fixtures manufacturing",430,400,33168,33306,400,33207,33238 
+"          9226 Supervisors, other mechanical and metal products manufacturing",340,340,47564,50932,320,49590,51311 
+"          9227 Supervisors, other products manufacturing and assembly",680,615,38020,37554,600,38134,38452 
+"        923 Central control and process operators in processing and manufacturing",2665,2535,44402,52845,2510,44450,53068 
+"          9231 Central control and process operators, mineral and metal processing",125,125,50853,56088,125,50853,56078 
+"          9232 Petroleum, gas and chemical process operators",2410,2285,43080,52983,2265,43495,53233 
+"          9235 Pulping, papermaking and coating control operators",120,125,51758,47057,125,51758,47057 
+"        924 Utilities equipment operators and controllers",3540,3420,54451,59472,3390,54439,59689 
+"          9241 Power engineers and power systems operators",1980,1905,65668,69970,1900,64958,69889 
+"          9243 Water and waste treatment plant operators",1555,1510,46867,46234,1495,47055,46714 
+"      94 Processing and manufacturing machine operators and related production workers",90045,82635,22146,24434,78795,22946,24991 
+"        941 Machine operators and related workers in mineral and metal products processing and manufacturing",6635,6245,28957,31137,6135,29143,31442 
+"          9411 Machine operators, mineral and metal processing",575,540,36518,42857,540,36518,42857 
+"          9412 Foundry workers",480,460,23581,27512,425,25220,29313 
+"          9413 Glass forming and finishing machine operators and glass cutters",855,805,25512,25871,790,25511,25984 
+"          9414 Concrete, clay and stone forming operators",270,260,22167,21606,255,22208,22028 
+"          9415 Inspectors and testers, mineral and metal processing",510,485,31185,34672,480,31147,34641 
+"          9416 Metalworking and forging machine operators",1480,1375,31420,31201,1355,31662,31447 
+"          9417 Machining tool operators",1010,960,31957,32474,950,33549,32811 
+"          9418 Other metal products machine operators",1455,1355,27658,30374,1350,27681,30401 
+"        942 Machine operators and related workers in chemical, plastic and rubber processing",10555,9920,28913,30075,9765,29048,30254 
+"          9421 Chemical plant machine operators",3410,3195,30535,31966,3080,31455,32767 
+"          9422 Plastics processing machine operators",5905,5590,27855,28894,5580,27897,28735 
+"          9423 Rubber processing machine operators and related workers",1240,1135,29389,30580,1115,29497,30912 
+"        943 Machine operators and related workers in pulp and paper production and wood processing and manufacturing",5530,5105,28459,30812,5000,28673,31112 
+"          9431 Sawmill machine operators",665,630,28012,35573,595,30339,37037 
+"          9432 Pulp mill machine operators",230,210,56880,46683,210,56916,47723 
+"          9433 Papermaking and finishing machine operators",480,445,31509,31397,435,31534,31497 
+"          9434 Other wood processing machine operators",545,515,26797,28873,515,26797,28864 
+"          9435 Paper converting machine operators",2005,1785,29666,29927,1775,29684,29975 
+"          9436 Lumber graders and other wood processing inspectors and graders",520,495,29819,34268,490,29841,34491 
+"          9437 Woodworking machine operators",1095,1020,23834,25142,980,23946,25391 
+"        944 Machine operators and related workers in textile, fabric, fur and leather products processing and manufacturing",29640,26540,18926,19532,23995,19798,20370 
+"          9441 Textile fibre and yarn, hide and pelt processing machine operators and workers",1435,1305,24843,23517,1225,25059,24417 
+"          9442 Weavers, knitters and other fabric making occupations",2620,2335,23995,23500,2040,25866,25573 
+"          9445 Fabric, fur and leather cutters",1480,1295,18643,19260,1240,19027,19663 
+"          9446 Industrial sewing machine operators",21565,19330,18064,18457,17280,18895,19201 
+"          9447 Inspectors and graders, textile, fabric, fur and leather products manufacturing",2545,2275,21464,22461,2200,21559,22863 
+"        946 Machine operators and related workers in food, beverage and associated products processing",24175,22105,21996,24891,21705,22665,25054 
+"          9461 Process control and machine operators, food, beverage and associated products processing",11250,10270,28835,29536,10005,29113,29916 
+"          9462 Industrial butchers and meat cutters, poultry preparers and related workers",3620,3225,30017,28302,3180,30215,28474 
+"          9463 Fish and seafood plant workers",6150,5690,9953,12425,5650,9687,12336 
+"          9465 Testers and graders, food, beverage and associated products processing",3150,2920,25278,29067,2870,25649,29349 
+"        947 Printing equipment operators and related occupations",13500,12720,21924,23616,12195,22476,24004 
+"          9471 Plateless printing equipment operators",3945,3790,27045,27191,3530,27643,27824 
+"          9472 Camera, platemaking and other prepress occupations",1480,1375,31480,30801,1335,32145,31676 
+"          9473 Binding and finishing machine operators",4245,3960,21348,22595,3810,21978,23126 
+"          9474 Photographic and film processors",3825,3595,15144,18219,3525,15250,18222 
+"      95 Assemblers in manufacturing",60670,56190,29455,31309,55105,29758,31670 
+"        952 Mechanical, electrical and electronics assemblers",38235,35545,32272,34285,35155,32508,34534 
+"          9521 Aircraft assemblers and aircraft assembly inspectors",1145,1100,43088,43007,1090,43235,43318 
+"          9522 Motor vehicle assemblers, inspectors and testers",19910,18500,38245,39134,18325,38598,39410 
+"          9523 Electronics assemblers, fabricators, inspectors and testers",10390,9715,27719,28079,9595,27811,28306 
+"          9524 Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing",4245,3890,27878,27663,3840,28032,27872 
+"          9525 Assemblers, fabricators and inspectors, industrial electrical motors and transformers",830,740,26541,27377,730,26558,27573 
+"          9526 Mechanical assemblers and inspectors",1060,980,27755,28371,960,27601,28289 
+"          9527 Machine operators and inspectors, electrical apparatus manufacturing",650,610,27521,30497,615,27521,30500 
+"        953 Other assembly and related occupations",22435,20645,25468,26186,19950,25885,26621 
+"          9531 Boat assemblers and inspectors",305,240,23666,23075,235,24368,23476 
+"          9532 Furniture and fixture assemblers and inspectors",3885,3590,24970,24043,3480,25365,24519 
+"          9533 Other wood products assemblers and inspectors",1530,1370,25551,25323,1315,26232,26112 
+"          9534 Furniture finishers and refinishers",1915,1810,24346,22661,1625,25851,23888 
+"          9535 Plastic products assemblers, finishers and inspectors",4605,4315,28213,29548,4305,28276,29633 
+"          9536 Industrial painters, coaters and metal finishing process operators",2010,1920,28410,31517,1910,28394,31339 
+"          9537 Other products assemblers, finishers and inspectors",8180,7400,23938,25007,7085,24390,25376 
+"      96 Labourers in processing, manufacturing and utilities",96080,87105,20267,21556,85475,20553,21709 
+"        961 Labourers in processing, manufacturing and utilities",96080,87105,20267,21556,85475,20553,21709 
+"          9611 Labourers in mineral and metal processing",740,695,25699,27837,685,25824,27986 
+"          9612 Labourers in metal fabrication",1665,1540,25071,26703,1440,26138,28163 
+"          9613 Labourers in chemical products processing and utilities",3240,2955,22254,25476,2935,22578,25642 
+"          9614 Labourers in wood, pulp and paper processing",3265,3060,24266,25534,2995,24779,25913 
+"          9615 Labourers in rubber and plastic products manufacturing",3360,3075,25870,25864,3035,25912,26064 
+"          9616 Labourers in textile processing",1185,1015,22894,23486,1010,22911,23244 
+"          9617 Labourers in food, beverage and associated products processing",38505,35040,22660,23249,34530,22935,23441 
+"          9618 Labourers in fish and seafood processing",6115,5710,9989,11010,5660,9884,10921 
+"          9619 Other labourers in processing, manufacturing and utilities",38010,34010,19219,20075,33185,19466,20164 
+"Note"
+"[1] Excludes National Household Survey data for one or more incompletely enumerated Indian reserves or Indian settlements."
+"[2] For the 2011 National Household Survey (NHS) estimates, the global non-response rate (GNR) is used as an indicator of data quality. This indicator combines complete non-response (household) and partial non-response (question) into a single rate. The value of the GNR is presented to users. A smaller GNR indicates a lower risk of non-response bias and as a result, lower risk of inaccuracy. The threshold used for estimates' suppression is a GNR of 50% or more. For more information, please refer to the National Household Survey User Guide, 2011."
+"[3] 'Highest certificate, diploma or degree' refers to the highest certificate, diploma or degree completed based on a hierarchy which is generally related to the amount of time spent 'in-class.' For postsecondary completers, a university education is considered to be a higher level of schooling than a college education, while a college education is considered to be a higher level of education than in the trades. Although some trades requirements may take as long or longer to complete than a given college or university program, the majority of time is spent in on-the-job paid training and less time is spent in the classroom.   For further definitions, refer to the National Household Survey Dictionary, Catalogue no. 99-000-X. For any comments on collection, dissemination or data quality for this variable, refer to the Education Reference Guide, National Household Survey, Catalogue no. 99-012-X2011006.   "
+"[4] Earnings or employment income - Refers to total income received by persons aged 15 years and over during calendar year 2010 as wages and salaries, net income from a non-farm unincorporated business and/or professional practice, and/or net farm self-employment income.   Wages and salaries - Refers to gross wages and salaries before deductions for such items as income tax, pensions and Employment Insurance. Included in this source are military pay and allowances, tips, commissions and cash bonuses, benefits from wage-loss replacement plans or income-maintenance insurance plans, supplementary unemployment benefits from an employer or union as well as all types of casual earnings during calendar year 2010. Other employment income such as taxable benefits, research grants and royalties are included.    Net non-farm income from unincorporated business and/or professional practice - Refers to net income (gross receipts minus expenses of operation such as wages, rents and depreciation) received during calendar year 2010 from the respondent's non-farm unincorporated business or professional practice. In the case of partnerships, only the respondent's share was reported. Also included is net income from persons babysitting in their own homes, persons providing room and board to non-relatives, self-employed fishers, hunters and trappers, operators of direct distributorships such as those selling and delivering cosmetics, as well as freelance activities of artists, writers, music teachers, hairdressers, dressmakers, etc.    Net farm income - Refers to net income (gross receipts from farm sales minus depreciation and cost of operation) received during calendar year 2010 from the operation of a farm, either on the respondent's own account or in partnership. In the case of partnerships, only the respondent's share of income was reported. Included with gross receipts are cash advances received in 2010, dividends from cooperatives, rebates and farm-support payments to farmers from federal, provincial and regional agricultural programs (for example, milk subsidies and marketing board payments) and gross insurance proceeds  such as payments from the AgriInvest and AgriStability programs. The value of income 'in kind,' such as agricultural products produced and consumed on the farm, is excluded.    Median income of individuals - The median income of a specified group of income recipients is that amount which divides their income size distribution, ranked by size of income, into two halves, i.e.,  the incomes of the first half of individuals are below the median, while those of the second half are above the median. Median income is calculated from the unrounded number of individuals (e.g., males aged 45 to 54) with income in that group.   Average income of individuals - Average income of individuals refers to the weighted mean total income of individuals aged 15 years and over who reported income for 2010. Average income is calculated from unrounded data by dividing the aggregate income of a specified group of individuals (e.g., males aged 45 to 54) by the number of individuals with income in that group.     The above concept and procedures also apply in the calculation of these statistics for earnings. "
+"[5] For population with employment income. "
+"[6] For population with employment income. "
+"[7] For population with wages and salaries. "
+"[8] For population with wages and salaries. "
+"[9] Not applicable: Persons aged 15 years and over who have never worked for pay or in self-employment or who had last worked prior to January 1, 2010 only."
+"[10] All occupations: Experienced population refers to persons who, during the week of Sunday, May 1 to Saturday, May 7, 2011, were employed and persons 15 years and over (unemployed or not in the labour force) who had last worked for pay or in self-employment in either 2010 or 2011."
+"Source: Statistics Canada - 2011 National Household Survey. Catalogue Number 99-014-X2011042."
